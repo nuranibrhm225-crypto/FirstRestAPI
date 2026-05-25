@@ -43,13 +43,13 @@ jdbc:h2:mem:testdb
 
 ## API Endpoints
 
-| Method | Endpoint              |
-| ------ | --------------------- |
-| GET    | /api/v1/products      |
-| GET    | /api/v1/products/{id} |
-| POST   | /api/v1/products      |
-| PUT    | /api/v1/products/{id} |
-| DELETE | /api/v1/products/{id} |
+| Method | Endpoint |
+| :--- | :--- |
+| GET | `/api/v1/products` |
+| GET | `/api/v1/products/{id}` |
+| POST | `/api/v1/products` |
+| PUT | `/api/v1/products/{id}` |
+| DELETE | `/api/v1/products/{id}` |
 
 ## Features
 
